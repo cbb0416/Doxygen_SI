@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.10">
+  <compounddef id="examples_8c" kind="file" language="C++">
+    <compoundname>examples.c</compoundname>
+      <sectiondef kind="func">
+      <memberdef kind="function" id="examples_8c_1a06224de975d27f9ab38246d2b7602b3b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void fn</definition>
+        <argsstring>(uint16_t t)</argsstring>
+        <name>fn</name>
+        <param>
+          <type>uint16_t</type>
+          <declname>t</declname>
+        </param>
+        <briefdescription>
+<para>sadf  Jack Cheng </para>        </briefdescription>
+        <detaileddescription>
+<para>fn <parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>uint16_t</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>t </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>extern </para></simplesect>
+<simplesect kind="date"><para>2015-12-16 </para></simplesect>
+<simplesect kind="see"><para></para></simplesect>
+<simplesect kind="note"><para></para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Project/Doxygen_SI/Code/examples.c" line="16" column="1"/>
+      </memberdef>
+      <memberdef kind="function" id="examples_8c_1aeabdc043b1a52e6670cd5673170b840b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int</type>
+        <definition>int function</definition>
+        <argsstring>(uint16_t i)</argsstring>
+        <name>function</name>
+        <param>
+          <type>uint16_t</type>
+          <declname>i</declname>
+        </param>
+        <briefdescription>
+<para>asdas  Jack Cheng </para>        </briefdescription>
+        <detaileddescription>
+<para>function <parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>uint16_t</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>i </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para></para></simplesect>
+<simplesect kind="date"><para>2015-12-16 </para></simplesect>
+<simplesect kind="see"><para></para></simplesect>
+<simplesect kind="note"><para></para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Project/Doxygen_SI/Code/examples.c" line="30" column="1" bodyfile="F:/Project/Doxygen_SI/Code/examples.c" bodystart="30" bodyend="33"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="normal"></highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight></codeline>
+<codeline lineno="16"><highlight class="keyword">extern</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>fn(<sp/>uint16_t<sp/>t);</highlight></codeline>
+<codeline lineno="17"><highlight class="normal"></highlight></codeline>
+<codeline lineno="30"><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">function</highlight><highlight class="normal">(uint16_t<sp/>i)</highlight></codeline>
+<codeline lineno="31"><highlight class="normal">{</highlight></codeline>
+<codeline lineno="32"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>int;</highlight></codeline>
+<codeline lineno="33"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
+    <location file="F:/Project/Doxygen_SI/Code/examples.c"/>
+  </compounddef>
+</doxygen>
